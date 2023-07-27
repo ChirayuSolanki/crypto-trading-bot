@@ -1,0 +1,16 @@
+pair :-
+BTCUSDT
+time frame :
+30
+macd line :-
+12
+signal line :-
+26
+signal period:-
+9
+Slow MA:-
+100
+start date for backtest(date month(Jan), year)
+10 Nov, 2022
+end date for backtest(date month(Jan), year)
+17 Nov, 2022
